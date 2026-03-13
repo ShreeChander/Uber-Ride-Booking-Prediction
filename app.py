@@ -15,7 +15,7 @@ import polyline
 import geopandas as gpd
 import openrouteservice
 
-API_KEY = '5b3ce3597851110001cf62484850a256b82e40f7bf789825d7378eec'
+API_KEY = ''
 
 locations = {
     "Express Avenue Mall": (13.058821, 80.264103),
